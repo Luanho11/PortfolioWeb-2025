@@ -1,0 +1,17 @@
+/* Estilo del botón */
+.download-btn {
+    background-color: transparent; 
+    font-weight: 700;
+    width: 100%;
+    color: white; 
+    padding: 10px 20px; 
+    font-size: 1rem; 
+    border: #09a980 1px solid;
+    border-radius: 5px; 
+    cursor: pointer; 
+    transition: background-color 0.3s ease;
+}
+
+.download-btn:hover {
+    background-color: #09a980; 
+}

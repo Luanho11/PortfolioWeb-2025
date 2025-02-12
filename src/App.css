@@ -1,0 +1,11 @@
+.nombre {
+    font-family: "Poppins", serif;
+    font-weight: 100;
+    font-style: normal;
+    color: white;
+}
+
+body {
+    background-color: #100c14;
+    font-family: "Poppins", serif;
+}
