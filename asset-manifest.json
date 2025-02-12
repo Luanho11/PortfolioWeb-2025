@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/PortfolioWeb-2025/static/css/main.cddd20be.css",
+    "main.js": "/PortfolioWeb-2025/static/js/main.1172bc05.js",
+    "static/media/TIENDA.PNG": "/PortfolioWeb-2025/static/media/TIENDA.757ca503c7be2d714d91.PNG",
+    "static/media/Authentication.PNG": "/PortfolioWeb-2025/static/media/Authentication.1b57189938f8cf743895.PNG",
+    "static/media/laptop.png": "/PortfolioWeb-2025/static/media/laptop.82dda517ce667da720ce.png",
+    "static/media/APIHoteles.PNG": "/PortfolioWeb-2025/static/media/APIHoteles.97ca0c762a3f9c758169.PNG",
+    "static/media/CRUD.PNG": "/PortfolioWeb-2025/static/media/CRUD.3133d206a4b67b98da39.PNG",
+    "index.html": "/PortfolioWeb-2025/index.html",
+    "main.cddd20be.css.map": "/PortfolioWeb-2025/static/css/main.cddd20be.css.map",
+    "main.1172bc05.js.map": "/PortfolioWeb-2025/static/js/main.1172bc05.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cddd20be.css",
+    "static/js/main.1172bc05.js"
+  ]
+}
