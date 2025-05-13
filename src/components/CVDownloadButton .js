@@ -4,10 +4,9 @@ import './CVDownloadButton.css';
 const CVDownloadButton = () => {
     return (
         <a href={'${process.env.PUBLIC_URL}/CV_HostosLuis_Developer.pdf'}
-        download = "CV_HostosLuis_Developer.pdf"
         target = "_blank"
         rel = "noopener noreferrer">
-            <button className="download-btn">Descargar CV</button>
+            <button className="download-btn">Ver CV</button>
         </a>
     )
 }
