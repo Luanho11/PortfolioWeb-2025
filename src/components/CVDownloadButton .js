@@ -3,7 +3,7 @@ import './CVDownloadButton.css';
 
 const CVDownloadButton = () => {
     return (
-        <a href="./CV_HostosLuis_Developer.pdf" download="CV_HostosLuis_Developer.pdf">
+        <a href='${process.env.PUBLIC_URL}/CV_HostosLuis_Developer.pdf' download>
             <button className="download-btn">Descargar CV</button>
         </a>
     )
